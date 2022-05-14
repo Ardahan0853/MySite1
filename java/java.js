@@ -1,0 +1,11 @@
+$("button").click(function(){
+  location.href="index2.html"
+})
+$("button").hover(
+  function(){
+    $(this).addClass("fa-beat");
+  },
+  function(){
+    $(this).removeClass("fa-beat");
+  }
+)

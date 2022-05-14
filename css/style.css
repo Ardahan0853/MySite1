@@ -1,0 +1,116 @@
+body{
+  font-family: 'Bebas Neue', cursive;
+}
+.nav-item {
+  margin: 20px;
+}
+
+.navbar-nav {
+  margin-left: 80%;
+}
+
+.navbar-brand {
+  margin-left: 30px;
+}
+
+.main {
+
+
+  background-color: #394a51;
+  background-image: url("../images/Main.png");
+  background-repeat: no-repeat;
+  height: 55rem;
+
+}
+.maintext{
+  width: 50rem;
+  text-align: center;
+  padding-right: 15rem;
+  padding-top: 10%;
+}
+.real{
+  margin:23px 0 50px 0;
+  font-size: 7rem;
+  position: relative;
+  top: -50px;
+  color: #ff9a3c;
+}
+.col{
+  font-size: 3rem;
+  color: #475053
+
+}
+.container{
+  position: relative;
+  bottom: 40px;
+}
+.bottom-h1{
+
+  color: #ff9a3c;
+
+  font-size: 10rem;
+}
+.bisiklet {
+  width: 60%;
+  position: relative;
+}
+
+.foot{
+  text-align: center;
+  background-color: #212529;
+  height: 200px;
+  padding-top: 50px;
+
+}
+.iletisim{
+  position: relative;
+  bottom: -10px;
+  color: white;
+
+}
+.insta{
+  padding-right: 10px;
+}
+.baslik {
+  padding: 66px 0;
+}
+.button{
+  position: relative;
+  bottom: 7rem;
+}
+.container-fluid{
+  margin:auto;
+  text-align: center;
+  padding:  150px 0 70px 0;
+  background-color:#212529;
+  border-bottom: 5px dotted grey;
+
+}
+.siyahurun{
+  border-radius: 1%;
+}
+.bilgilendirme{
+  color: white;
+  position: relative;
+  margin: 30px 0;
+}
+
+
+.btn5{
+  position: relative;
+  top: 30px;
+  right: -5px;
+  background-color: #212529;
+
+}
+.btn2{
+  position: relative;
+  right: -5px;
+}
+#footer2{
+  padding-top: 100px;
+}
+h6{
+  position: relative;
+  top: 2px;
+}
